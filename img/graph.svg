@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <?xml-stylesheet type="text/css" href="css/svg.css"?>
@@ -36,3 +37,43 @@
 		s-7.813,18.629-17.728,18.629C407.737,597.258,399.925,588.845,399.925,578.629"/>
 </g>
 </svg>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml-stylesheet type="text/css" href="css/svg.css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1280px" height="800px" viewBox="0 0 1280 800" enable-background="new 0 0 1280 800" xml:space="preserve">
+	 
+<g>
+	
+		<line fill="none" stroke="#F47728" stroke-width="2.997" stroke-linejoin="round" stroke-miterlimit="10" x1="90.14" y1="705.427" x2="1075.08" y2="106.291"/>
+	
+		<line fill="none" stroke="#4E76AE" stroke-width="3.995" stroke-linejoin="round" stroke-miterlimit="10" x1="89.239" y1="709.032" x2="89.239" y2="105.39"/>
+	<polygon fill="#4E76AE" points="99.756,108.995 89.239,87.662 78.423,108.995 	"/>
+	
+		<line fill="none" stroke="#4E76AE" stroke-width="3.995" stroke-linejoin="round" stroke-miterlimit="10" x1="83.531" y1="708.733" x2="1150.498" y2="708.733"/>
+	<polygon fill="#4E76AE" points="1146.892,719.248 1168.225,708.733 1146.892,697.915 	"/>
+	
+		<text transform="matrix(-6.133557e-017 -1.0017 1 -6.123234e-017 31.9216 333.2913)" fill="#384B59" font-family="Arial"  font-size="37.2519">Effectiveneses</text>
+	<text transform="matrix(1.0017 0 0 1 1073.6306 770.717)" fill="#384B59" font-family="Arial"  font-size="37.2519">Cost</text>
+	<text transform="matrix(1.0017 0 0 1 965.1951 61.2932)" fill="#F47728" font-family="Arial"  font-size="37.2519">Value equivalence</text>
+	<text transform="matrix(1.0017 0 0 1 1008.8943 197.9983)" enable-background="new    "><tspan x="0" y="0" fill="#384B59" font-family="Arial"  font-size="37.2519">Imparta </tspan><tspan x="0" y="44.702" fill="#384B59" font-family="Arial"  font-size="37.2519">Sales Academy</tspan></text>
+	<text transform="matrix(1.0017 0 0 1 439.4119 274.2971)" enable-background="new    "><tspan x="0" y="0" fill="#384B59" font-family="Arial"  font-size="37.2519">Imparta </tspan><tspan x="0" y="44.702" fill="#384B59" font-family="Arial"  font-size="37.2519">Virtual Sales </tspan><tspan x="0" y="89.404" fill="#384B59" font-family="Arial"  font-size="37.2519">Academy</tspan></text>
+	<text transform="matrix(1.0017 0 0 1 811.699 468.9866)" fill="#384B59" font-family="Arial"  font-size="37.2519">Traditional</text>
+	<text transform="matrix(1.0017 0 0 1 811.699 513.7561)" fill="#384B59" font-family="Arial"  font-size="37.2519">training </text>
+	<text transform="matrix(1.0017 0 0 1 457.1755 607.3381)" fill="#384B59" font-family="Arial"  font-size="37.2519">Traditional </text>
+	<text transform="matrix(1.0017 0 0 1 457.1755 652.1077)" fill="#384B59" font-family="Arial"  font-size="37.2519">eLearning</text>
+	
+	<path fill="#00316B" d="M951.287,172.094c0-9.916,7.813-17.728,17.728-17.728s17.728,7.812,17.728,17.728
+		c0,9.915-7.813,17.728-17.728,17.728C959.399,189.822,951.287,182.009,951.287,172.094"/>
+	<path fill="#00316B" d="M382.799,304.901c0-10.215,7.812-18.628,17.728-18.628c9.915,0,17.728,8.413,17.728,18.628
+		c0,10.217-7.813,18.63-17.728,18.63C390.61,323.531,382.799,315.117,382.799,304.901"/>
+	<path fill="#00316B" d="M754.178,440.413c0-9.916,7.813-17.729,17.728-17.729c9.916,0,17.729,7.813,17.729,17.729
+		c0,9.915-7.813,17.728-17.729,17.728C761.991,458.141,754.178,450.328,754.178,440.413"/>
+	<path fill="#00316B" d="M399.925,578.629c0-10.216,7.813-18.629,17.729-18.629c9.915,0,17.728,8.413,17.728,18.629
+		s-7.813,18.629-17.728,18.629C407.737,597.258,399.925,588.845,399.925,578.629"/>
+</g>
+</svg>
+>>>>>>> 1c352534071be6cba5600987b43e4ed1e7d08303

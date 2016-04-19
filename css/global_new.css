@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* CSS Document */
 
 body{font-size:12px}
@@ -340,4 +341,348 @@ body{font-size:14px}
 			h2{font-size:3.5em}
 h3{font-size:3.5em}
 	
+=======
+/* CSS Document */
+
+body{font-size:12px}
+
+h1{position:absolute; text-indent:-2000px; background:url(../img/logo.svg) no-repeat; margin:0.5em!important; height: 65px; transition:all 0.5s; -webkit-transition:all 0.25s;     background-size: 50%;  width:160px; z-index:100;}
+.overwhite h1{height: 30px; background-size:contain;  brightness: invert(0); -webkit-filter: brightness(0); ; margin:0.5em!important;}
+h2{font-size:2em; font-weight:600}
+h3{font-size:2em; font-weight:100}
+
+.navbar{opacity: 0.9; filter: alpha(opacity=90); position: fixed !important}
+.navbar-list{display:none}
+
+/*SECTION 1*/
+
+#section1 {text-align:center; background:url(../img/semi_bg.png) center center, url(../img/s1-bg.jpg) center center;
+background-blend-mode: multiply, normal;
+background-size:auto, cover;
+}
+
+#section1 h2{margin: 5em 0 2em 0; color:#D5D925}
+#section1 h3{margin: 2.5em 0 0 0;  color:#D5D925}
+
+#section1 img{opacity:0; transition:opacity 0.5s ease-out; position: absolute;
+    top: 50%;
+    left: 50%;
+    margin:-100px 0 0 -100px}
+#section1 img:hover{opacity:1; cursor: pointer}
+
+/*SECTION 3 - 2ND SLIDE*/
+
+#section3 {background-image:url(../img/s3-bg1.jpg);
+background-repeat: no-repeat;
+background-size:200%;
+background-position:left top;
+-webkit-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+}
+
+#section3 .halfcol{
+	width: 100%;
+	top:0;
+}
+#section3 .graph{width: 75%;
+    opacity: 0;
+    -webkit-transition: opacity 1s;
+    transition: opacity 1s;
+    -webkit-transition-delay: 1s;
+    transition-delay: 1s;
+	margin: 10% 0 40% 5%;
+}
+
+#section3 .graph.in {opacity: 1;}
+ #section3 p{font-size: 1em; text-align:left;}
+#section3 h3, #section4 h3, #section2 h3{margin-bottom:1em;  line-height: 1.2;}
+
+.ico-cup{background:url(../img/ico-cup.png) no-repeat}
+.ico-wallet{background:url(../img/ico-wallet.png) no-repeat}
+.ico-module{background:url(../img/ico-module.png) no-repeat}
+.ico-stretch{background:url(../img/ico-stretch.png) no-repeat}
+.ico-speach{background:url(../img/ico-speach.png) no-repeat}
+.ico-interact{background:url(../img/ico-interact.png) no-repeat}
+.ico-tools{background:url(../img/ico-tools.png) no-repeat}
+.ico-check{background:url(../img/ico-check.png) no-repeat}
+.ico-map{background:url(../img/ico-map.png) no-repeat}
+
+#section3 li{    margin-bottom: 1em;
+    min-height: 48px;
+	list-style-type:none;
+    padding-left: 64px;
+	}
+
+
+
+/*SECTION 2 - THIRD SLIDE*/
+
+#section2 p{font-size: 1em; text-align:center; margin-bottom:2em}
+#section2 h3 {
+    text-align: center;
+}
+
+
+#section2>div{vertical-align: bottom;}
+
+#section2 {background-image:url(../img/s2-bg1.png), url(../img/s2-bg2.jpg);
+background-repeat: no-repeat;
+background-size: 230%, 230%;
+    background-position: 30% top, center 64px;
+-webkit-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+}
+
+#section2.up{background-position:center 100px, center 400px; }
+#section2.down{background-position:center -100px, center -400px;}
+
+/*SECTION4*/
+
+ #section4 .thirdcol{
+    width: 100%;
+    background: url(../img/kolbs.jpg) no-repeat 0 0;
+	background-size: 100%;
+
+    top: 0;
+	text-align: center;
+	margin-left:3.333%;
+	transform: perspective( 800px ) rotateY( 10deg );
+
+	}
+	
+	#section4 li{
+	margin-bottom: 1em;
+    min-height: 48px;
+	list-style-type:none;
+    padding-left: 64px;
+	box-sizing:border-box;
+	}
+	
+#section4 .logo{
+	width: 66%;
+ margin: 38% 0 30%;
+	}
+	
+	
+	/*SECTION 5*/
+	
+	#section5 {background-image:url(../img/s5-bg1.jpg);background-repeat: no-repeat;
+background-size:160%;
+background-position:right bottom;
+-webkit-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);}
+
+#section5>div {
+    vertical-align: top;
+}
+
+#section5 .container {
+	height: 900px;
+}
+
+#section5 h3{
+	margin:1em 0 0.5em 0
+}
+
+#section5 .quotemark:before{
+	    color: #ccc;
+    content: "\201C";
+    line-height: 1.2em;
+    margin-left: -0.75em;
+    position: absolute;
+    font-size: 5em;
+    font-family: Georgia, serif 
+  
+}
+
+#section5 blockquote{margin:2em 0 0 0;  min-height: 5em }
+
+blockquote p {margin: 0; font-style:italic}
+
+blockquote cite{color:#33C3F0}
+
+/*DIVIDERS*/
+.section-footer{background-color:#384B59; width:100%; text-align:center; font-size:1.2em; padding: 1em 1em; color:#fff; line-height: 1.4; box-sizing:border-box}
+.section-footer p{width:100%; text-align:center; margin: 0 0 1em 0}
+.section-footer form{margin:0; width:100%}
+.section-footer input{
+    margin: 0 0.5em 0.5em 0;
+	color:#666;
+	font-size: 1em;
+	width:100%
+}
+
+.checkmark {
+  display: inline-block;
+ 
+}
+.checkmark:after {
+     content: '';
+    display: block;
+    width: 6px;
+    height: 12px;
+    border: solid #8CC100;
+    border-width: 0 4px 4px 0;
+    transform: rotate(45deg);
+}
+
+
+.u-full-width thead{background:#384B59; color:#fff}
+.center{ text-align:center;     width: 15%;
+    border-left: 1px solid #E1E1E1}
+
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {
+	#section5 {
+background-size:130%;	
+	}
+}
+
+@media screen and (max-width: 640px) {
+	table {
+		overflow-x: auto;
+		display: block;
+	}
+}
+
+/* Larger than tablet */
+@media (min-width: 720px) {
+	
+	#section1 h2{font-size:2.5em; margin: 3em 0 0 0;color: #D5D925; line-height: 2;}
+	#section1 h3{font-size:2.5em; font-weight:100; margin: 0 0 0.5em 0;  color:#D5D925}
+	
+		#section5 {
+background-size:120%;	
+	}
+	
+}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
+	
+.navbar-list{display:block}	
+	h1{position:absolute; background-size: contain; margin:1em!important}
+	
+	#section1 h2{font-size:3em; margin: 3em 0 0 0;color: #D5D925; line-height: 2;}
+	#section1 h3{font-size:3em; font-weight:100; margin: 0 0 0.5em 0;  color:#D5D925}
+	
+	#section1 img {
+    margin: -63px 0 0 -100px;
+}
+
+
+	/*SECTION3*/
+	
+	#section3 {
+	background-size:contain;
+	background-position:left top;
+	}
+	
+	#section3 .halfcol{
+		width: 50%;
+		position:absolute;
+		top:0;
+		height:100%;
+		text-align:center
+	}
+	
+	#section3 .graph{width: 75%;
+    opacity: 0;
+    -webkit-transition: opacity 1s;
+    transition: opacity 1s;
+    -webkit-transition-delay: 1s;
+    transition-delay: 1s;
+    margin: 10% 0 0 -10%;
+}
+
+#section3 .in{opacity:1}	
+
+#section3 h3, #section4 h3{margin-bottom: 0.75em; font-size:3em; line-height: 1.2;}
+
+
+/*SECTION2*/
+#section2 {background-image:url(../img/s2-bg1.png), url(../img/s2-bg2.jpg);
+background-repeat: no-repeat;
+background-size:contain, contain;
+background-position:center top, center  64px;
+-webkit-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+}
+#section2>div {
+   
+    padding-top: 0px;
+}
+/*SECTION4*/
+
+#section4 .thirdcol{position: absolute;
+    width: 33.3333%;
+    background: url(../img/kolbs.jpg) no-repeat 0 20px;
+	background-size:contain;
+    height: 100%;
+    top: 0;
+	text-align: center;
+	margin-left:3.333%;
+	transform: perspective( 800px ) rotateY( 10deg );
+	}
+	
+	#section4 li{
+	margin-bottom: 1em;
+    min-height: 48px;
+	list-style-type:none;
+    padding-left: 64px;
+	width: 50%;
+	box-sizing:border-box;
+	float:left;
+	}
+	
+#section4 .logo{
+    margin: 38% 0 0 0;
+	}
+	
+	#section5>div {
+    vertical-align: top;
+	padding-top:5%;
+	    box-sizing: border-box;
+}
+
+#section5 {
+background-size:contain;
+}
+
+#section5 .container {
+	height: auto;
+}
+
+#section5 {
+background-position:right 10px;
+}
+
+
+	#section1 h2{font-size:4em}
+	#section1 h3{font-size:4em}
+	
+	.section-footer{bottom: 0; position: absolute;  line-height: 1; padding: 1em 0}
+	.section-footer p{width:auto;margin:0!important; float:left; padding:0.5em 0 0.5em 0}
+.section-footer form{margin:0; float:right; width:auto}
+.section-footer input{
+    margin: 0 0.5em 0 0;
+	color:#666;
+	font-size: 1em;
+	    float: left;
+    width: auto;
+}
+body{font-size:14px}
+
+	}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {
+			h2{font-size:3.5em}
+h3{font-size:3.5em}
+	
+>>>>>>> 1c352534071be6cba5600987b43e4ed1e7d08303
 	}

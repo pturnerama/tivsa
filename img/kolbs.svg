@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="../css/global.css" type="text/css"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
@@ -43,3 +44,50 @@
 		l0-16.097l20.055,27.305l-20.055,29.223v-16.09C116.46,50.736,39.497,135.997,39.497,237.771H15.228z"/>
 </g>
 </svg>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../css/global.css" type="text/css"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="kolbs" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="490.372px" height="489.533px" viewBox="0 0 490.372 489.533" enable-background="new 0 0 490.372 489.533"
+	 xml:space="preserve">
+<g class="fade1" id="fade1">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#00316B" d="M252.193,25.511c117.427,0,212.619,95.033,212.619,212.261
+		H252.193V25.511L252.193,25.511z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2.9966" stroke-linejoin="round" stroke-miterlimit="10" d="M252.193,25.511
+		c117.427,0,212.619,95.033,212.619,212.261H252.193V25.511L252.193,25.511z"/>
+	<text transform="matrix(1.0017 0 0 1 295.0981 176.9229)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">E</tspan><tspan x="12.981" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">x</tspan><tspan x="21.978" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">pe</tspan><tspan x="43.922" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">r</tspan><tspan x="49.92" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">i</tspan><tspan x="53.927" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">e</tspan><tspan x="64.9" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">n</tspan><tspan x="74.905" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">c</tspan><tspan x="84.887" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">e</tspan></text>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#B2BDD3" d="M252.193,15.225c115.348,0,211.646,87.845,222.02,202.531h16.159
+		l-27.415,20.016l-29.327-20.016h16.152c-10.29-101.23-95.667-178.252-197.589-178.252V15.225z"/>
+</g>
+<g class="fade2" id="fade2">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#00316B" d="M464.812,252.755c0,117.229-95.192,212.261-212.619,212.261
+		V252.755H464.812L464.812,252.755z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2.9966" stroke-linejoin="round" stroke-miterlimit="10" d="M464.812,252.755
+		c0,117.229-95.192,212.261-212.619,212.261V252.755H464.812L464.812,252.755z"/>
+	<text transform="matrix(1.0017 0 0 1 300.1138 323.4932)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">R</tspan><tspan x="13.972" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">e</tspan><tspan x="24.944" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">f</tspan><tspan x="30.919" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">l</tspan><tspan x="34.926" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">e</tspan><tspan x="45.899" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">c</tspan><tspan x="55.882" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">t</tspan><tspan x="60.889" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">i</tspan><tspan x="64.897" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">o</tspan><tspan x="75.869" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">n</tspan></text>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#B2BDD3" d="M475.116,251.756c0,115.153-87.993,211.288-202.873,221.646
+		v16.132l-20.05-27.369l20.05-29.277v16.125c101.401-10.272,178.554-95.506,178.554-197.256H475.116z"/>
+</g>
+<g class="fade3" id="fade3">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#00316B" d="M238.185,465.016c-117.427,0-212.62-95.032-212.62-212.261h212.62
+		V465.016L238.185,465.016z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2.9966" stroke-linejoin="round" stroke-miterlimit="10" d="M238.185,465.016
+		c-117.427,0-212.62-95.032-212.62-212.261h212.62V465.016L238.185,465.016z"/>
+	<text transform="matrix(1.0017 0 0 1 110.6606 313.8447)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">A</tspan><tspan x="12.981" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">b</tspan><tspan x="23.954" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">s</tspan><tspan x="33.936" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">t</tspan><tspan x="38.943" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">r</tspan><tspan x="44.941" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">a</tspan><tspan x="54.946" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">c</tspan><tspan x="64.928" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">t</tspan><tspan x="69.936" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786"> </tspan></text>
+	<text transform="matrix(1.0017 0 0 1 70.6372 333.8369)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">C</tspan><tspan x="13.972" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">o</tspan><tspan x="24.944" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">n</tspan><tspan x="34.949" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">c</tspan><tspan x="44.931" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">ep</tspan><tspan x="66.876" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">t</tspan><tspan x="71.883" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">ua</tspan><tspan x="91.893" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">li</tspan><tspan x="99.908" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">s</tspan><tspan x="109.891" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">a</tspan><tspan x="119.896" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">t</tspan><tspan x="124.903" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">i</tspan><tspan x="128.91" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">o</tspan><tspan x="139.883" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">n</tspan></text>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#B2BDD3" d="M237.685,474.337c-115.124,0-211.229-87.883-221.56-202.606H0
+		l27.362-19.975l29.261,19.975H40.504c10.244,101.295,95.452,178.379,197.181,178.379V474.337z"/>
+</g>
+<g class="fade4" id="fade4">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#00316B" d="M25.565,237.772c0-117.229,95.193-212.261,212.62-212.261v212.261
+		H25.565L25.565,237.772z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2.9966" stroke-linejoin="round" stroke-miterlimit="10" d="M25.565,237.772
+		c0-117.229,95.193-212.261,212.62-212.261v212.261H25.565L25.565,237.772z"/>
+	<text transform="matrix(1.0017 0 0 1 77.6372 176.9229)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">E</tspan><tspan x="12.981" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">x</tspan><tspan x="21.977" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">pe</tspan><tspan x="43.922" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">r</tspan><tspan x="49.92" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">i</tspan><tspan x="53.927" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">m</tspan><tspan x="69.907" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">e</tspan><tspan x="80.88" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">n</tspan><tspan x="90.885" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">t</tspan><tspan x="95.892" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">a</tspan><tspan x="105.896" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">t</tspan><tspan x="110.903" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">i</tspan><tspan x="114.911" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">o</tspan><tspan x="125.884" y="0" fill="#FFFFFF" font-family="'Arial'" font-size="18.9786">n</tspan></text>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#B2BDD3" d="M15.228,237.771c0-115.152,87.783-211.293,202.402-221.675
+		l0-16.097l20.055,27.305l-20.055,29.223v-16.09C116.46,50.736,39.497,135.997,39.497,237.771H15.228z"/>
+</g>
+</svg>
+>>>>>>> 1c352534071be6cba5600987b43e4ed1e7d08303

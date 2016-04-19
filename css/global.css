@@ -1,0 +1,296 @@
+/* CSS Document */
+
+body{font-size:14px}
+
+h1{position:absolute; text-indent:2000px; background:url(../img/logo.svg) no-repeat; margin:1em!important; height: 65px; transition:all 0.5s; -webkit-transition:all 0.25s}
+.overwhite h1{height: 30px; background-size:contain;  brightness: invert(0); -webkit-filter: brightness(0); ; margin:0.5em!important;}
+h2{font-size:3em; font-weight:600}
+h3{font-size:3em; font-weight:100}
+
+
+#section1 {text-align:center}
+#section1 {background:url(../img/semi_bg.png) center center, url(../img/s1-bg.jpg) center center;
+background-blend-mode: multiply, normal;
+background-size:auto, cover;
+}
+#section1 h2{margin: 0.5em 0 0 0; color:#D5D925}
+#section1 h3{margin: 0 0 0.5em 0;  color:#D5D925}
+
+#section1 img{opacity:0; transition:opacity 0.5s ease-out; margin:-1.4em -0.1em 0 0;}
+#section1 img:hover{opacity:1; cursor: pointer}
+
+#section2 p{font-size: 1em; text-align:center; margin-bottom:2em}
+#section2 h3 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+#section2>div{vertical-align: bottom;}
+
+#section2 {background-image:url(../img/s2-bg1.png), url(../img/s2-bg2.jpg);
+background-repeat: no-repeat;
+background-size:contain, contain;
+background-position:center top, center top;
+-webkit-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+}
+
+
+
+#section2.up{background-position:center 100px, center 400px; }
+#section2.down{background-position:center -100px, center -400px;}
+
+#section3 {background-image:url(../img/s3-bg1.jpg);
+background-repeat: no-repeat;
+background-size:contain;
+background-position:center top;
+-webkit-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+}
+
+#section3 .halfcol{
+	width: 50%;
+	position:absolute;
+	top:0;
+	height:100%;
+	text-align:center
+}
+
+ #section3 p{font-size: 1em; text-align:left;}
+#section3 h3, #section4 h3{margin-bottom:0; font-size:3em; line-height: 1.2;}
+
+.ico-cup{background:url(../img/ico-cup.png) no-repeat}
+.ico-wallet{background:url(../img/ico-wallet.png) no-repeat}
+.ico-module{background:url(../img/ico-module.png) no-repeat}
+.ico-stretch{background:url(../img/ico-stretch.png) no-repeat}
+.ico-speach{background:url(../img/ico-speach.png) no-repeat}
+.ico-interact{background:url(../img/ico-interact.png) no-repeat}
+.ico-tools{background:url(../img/ico-tools.png) no-repeat}
+.ico-check{background:url(../img/ico-check.png) no-repeat}
+.ico-map{background:url(../img/ico-map.png) no-repeat}
+
+#section3 li{    margin-bottom: 1em;
+    min-height: 48px;
+	list-style-type:none;
+    padding-left: 64px;
+	}
+
+#section3 .graph{width: 75%;
+    opacity: 0;
+    -webkit-transition: opacity 1s;
+    transition: opacity 1s;
+    -webkit-transition-delay: 1s;
+    transition-delay: 1s;
+    margin: 15% 0 0 -10%;
+}
+#section3 .in{opacity:1}	
+	/*#section4 {background-image:url(../img/kolbs.jpg);
+background-repeat: no-repeat;
+background-size:contain;
+background-position:left top;
+-webkit-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);
+}*/
+
+ #section4 .thirdcol{position: absolute;
+    width: 33.3333%;
+    background: url(../img/kolbs.jpg) no-repeat 0 20px;
+	background-size:contain;
+    height: 100%;
+    top: 0;
+	text-align: center;
+	margin-left:3.333%;
+	transform: perspective( 800px ) rotateY( 10deg );
+
+	}
+
+#section4 li{
+	margin-bottom: 1em;
+    min-height: 48px;
+	list-style-type:none;
+    padding-left: 64px;
+	width: 50%;
+	box-sizing:border-box;
+	float:left;
+	}
+	
+#section4 .logo{
+	width: 66%;
+    margin: 38% 0 0 0;
+	}
+	
+	#section5 {background-image:url(../img/s5-bg1.jpg);background-repeat: no-repeat;
+background-size:contain;
+background-position:right bottom;
+-webkit-transform: translate3d(0,0,0);
+transform: translate3d(0,0,0);}
+
+#section5>div {
+    vertical-align: top;
+	
+}
+
+#section5 h3{
+	margin:3em 0 0.5em 0
+}
+
+#section5 .quotemark:before{
+	    color: #ccc;
+    content: "\201C";
+    line-height: 1.2em;
+    margin-left: -0.75em;
+    position: absolute;
+    font-size: 5em;
+    font-family: Georgia, serif 
+  
+}
+
+#section5 blockquote{margin:2em 0 0 0 }
+
+blockquote p {margin: 0; font-style:italic}
+
+blockquote cite{color:#33C3F0}
+
+ .divider{
+	    margin-top: -2.5em;
+    position: relative;
+    z-index: 3000;
+    text-align: center;
+    padding: 0.5em;
+    background-color: #384B59;
+    color: white;
+    font-size: 1.25em;
+ }
+
+ .divider a{color:#D5D925}
+ 
+.section-footer{bottom: 0; position: absolute; background-color:#384B59; width:100%; text-align:center; font-size:1.2em; padding: 1em 0; color:#fff; line-height: 1;}
+.section-footer p{margin:0!important; float:left}
+.section-footer form{margin:0; float:right}
+.section-footer input{
+    margin: 0 0.5em 0 0;
+	color:#666;
+	font-size: 1em;
+}
+
+
+.fade1 {
+	opacity:0;
+	transition:opacity 1s;
+	
+}
+
+.fade2 {
+	opacity:0;
+	transition:opacity 1s;
+	transition-delay:2s;
+}
+
+.fade3 {
+	opacity:0;
+	transition:opacity 1s;
+	transition-delay:4s;
+}
+
+.fade4 {
+	opacity:0;
+	transition:opacity 1s;
+	transition-delay:6s;
+}
+
+.fadeup{opacity:1}
+
+ 
+
+@-moz-keyframes fadein {
+    0% {
+        opacity:0;
+    }
+
+    20% {
+        opacity:1;
+    }
+	
+	100% {
+        opacity:1;
+    }
+	
+}
+
+@-webkit-keyframes fadein {
+    0% {
+        opacity:0;
+    }
+
+    20% {
+        opacity:1;
+    }
+	
+	100% {
+        opacity:1;
+    }
+	
+}
+
+
+
+
+
+@media screen and (min-width : 760px){
+	
+	h2{font-size:3em; font-weight:600}
+h3{font-size:3em; font-weight:100}
+
+#section2 p{font-size: 1em;}
+#section3 p{font-size: 1em; font-weight:600;}
+}
+
+
+@media screen and (min-width : 1024px){
+	h2{font-size:4em; font-weight:600}
+h3{font-size:3em; font-weight:100}
+#section1 h3{font-size:4em; font-weight:100;}
+	#section2 p{font-size: 1.5em; font-weight:100}
+	#section4 p{font-size: 1.5em; font-weight:100;  margin: 1em 0 1.5em}
+	#section3 p{font-size: 1.5em; font-weight:100; margin: 1em 0 1.5em}
+	#section3 .section-footer p{margin:0 0 0 0}
+}
+
+.menu-trigger {
+  display:none;
+  color:#F8ECC2;
+}
+
+@media screen and (max-width:760px) {
+  .menu-trigger {
+    display:block;
+  }
+  nav ul li {
+    display:block;
+    border-top:1px #79896D solid;    
+  }
+  nav ul {
+    display:none;
+  }
+}
+
+
+
+
+
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {}
+
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
